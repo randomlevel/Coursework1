@@ -406,14 +406,6 @@ h1, h2, h3, h4, h5, h6 {
 	transition: 300ms;
 }
 
-/* .carousel-right {
-  right:15px
-}
-
-.carousel-left {
-  left:15px
-} */
-
 #main-carousel .carousel-left:hover,
 #main-carousel .carousel-right:hover{
 	color: #F6F6F6;
@@ -852,8 +844,6 @@ h1, h2, h3, h4, h5, h6 {
 	color:#fff;  
 }
 
-
-
 /*====================
 ======Clients CSS=====
 ======================*/
@@ -956,8 +946,6 @@ h1, h2, h3, h4, h5, h6 {
 .clients p span{
 	color:#76b3fe;
 }
-
-
 
 /*=====================
 ======Our Blog CSS=====

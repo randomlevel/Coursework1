@@ -27,10 +27,10 @@ jQuery(function($) {'use strict',
 		}
 	});
 	
-	//Pretty Photo
-	 $("a[data-gallery^='prettyPhoto']").prettyPhoto({
-	  social_tools: false
-	 });
+	// //Pretty Photo
+	//  $("a[data-gallery^='prettyPhoto']").prettyPhoto({
+	//   social_tools: false
+	//  });
 
 
 	// Contact form validation
